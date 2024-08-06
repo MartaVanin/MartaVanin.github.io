@@ -1,0 +1,1 @@
+My personal website, style and format inspired by B. Legat: https://blegat.github.io/
