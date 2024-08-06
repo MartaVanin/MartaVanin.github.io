@@ -1,4 +1,6 @@
 @def title = "Marta Vanin - Homepage"
+@def hasmath = false
+@def hascode = false
 @def tags = ["about", "work"]
 
 # About me
@@ -7,15 +9,15 @@
 <div class="row">
   <div class="container">
     <img class="left" src="/assets/aboutpic.png" width="120" height = "140">
-    <span style="">
-I am an incoming assistant professor in the <a https://www.esat.kuleuven.be/electa><span>Electa</span></a> group of the <a https://www.kuleuven.be/gent/industrieel-ingenieur><span>KU Leuven - Technologiecampus Ghent</span></a>,
-which is part of the department of electrical engineering <a https://www.esat.kuleuven.be/><span>(ESAT)</span></a> of KU Leuven, as well as <a https://energyville.be/><span>EnergyVille</span></a>.   
-Prior to that, I have been a postdoc and a PhD student at Electa (Leuven) and EnergyVille, in prof. <a https://www.esat.kuleuven.be/electa/professors/00043846<span>Dirk Van Hertem</span></a>'s group. 
-<br> 
-<br>
-During my PhD and postdoc time, I visited
- the Zuse Institute in Berlin, Germany, and CSIRO Energy in Newcastle (NSW), Australia, for a few months.
-</span>
+~~~
+@@inline-images
+I am an incoming assistant professor in the [Electa](https://www.esat.kuleuven.be/electa) group of the [KU Leuven - Technologiecampus Gent](https://www.kuleuven.be/gent/industrieel-ingenieur),
+which is part of the department of electrical engineering [(ESAT)](https://www.esat.kuleuven.be) of KU Leuven, as well as [EnergyVille](https://energyville.be/).   
+Prior to that, I have been a postdoc and a PhD student at Electa (Leuven) and EnergyVille, in prof. [Dirk Van Hertem](https://www.esat.kuleuven.be/electa/professors/00043846)'s group. 
+During my PhD and postdoc time, I visited the Zuse Institute in Berlin, Germany, and CSIRO Energy in Newcastle (NSW), Australia, for a few months.
+@@
+~~~
+    </p>
   </div>
 </div>
 ~~~
@@ -30,7 +32,11 @@ During my PhD and postdoc time, I visited
 	display: inline;
     }
 </style>
-<div class="hiring"> ❗❗❗ I have an opening for a Ph.D. student ❗❗❗ </div>
+<div class="hiring"> 
+~~~
+❗❗❗ I have an opening for a Ph.D. student ❗❗❗ 
+~~~
+</div>
 ~~~
 
 Have a look at my research activities below and do not hesitate to contact me if you they pique your interest.
