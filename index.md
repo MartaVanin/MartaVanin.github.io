@@ -8,7 +8,7 @@
 ~~~
 <div class="row">
   <div class="container">
-    <img class="left" src="/assets/aboutpic.png" width="120" height = "140">
+    <img class="left" src="assets/aboutpic.png" width="120" height = "140">
 ~~~
 @@inline-images
 I am an incoming assistant professor in the [Electa](https://www.esat.kuleuven.be/electa) group of the [KU Leuven - Technologiecampus Gent](https://www.kuleuven.be/gent/industrieel-ingenieur),
@@ -24,20 +24,7 @@ During my PhD and postdoc time, I visited the Zuse Institute in Berlin, Germany,
 
 # Work together?
 
-~~~
-<style>
-    .hiring {
-        background-color: #ffd32c;
-	font-weight:bold;
-	display: inline;
-    }
-</style>
-<div class="hiring"> 
-~~~
-❗❗❗ I have an opening for a Ph.D. student ❗❗❗ 
-~~~
-</div>
-~~~
+> :loudspeaker:   **I have an opening for a Ph.D. student !!**
 
 Have a look at my research activities below and do not hesitate to contact me if you they pique your interest.
 
@@ -73,14 +60,7 @@ Check [Google Scholar](https://scholar.google.com/citations?user=D-5tDxoAAAAJ&hl
 
 # Contacts
 
-You can reach out by email at: marta[dot]vanin[you know what]kuleuven[dot]be
+You can reach out by email at: _marta_[dot]_vanin_[you know what]_kuleuven_[dot]_be_
+
 
 I am also on LinkedIn, etc., but I am not necessarily very active/responsive there.
-~~~
-<div class="container">
-<a href="https://github.com/MartaVanin"><img src="/assets/github-mark.png" alt="GitHub" height="40" width="40"/></a>
-<a href="https://be.linkedin.com/in/marta-vanin-80434083"><img src="/assets/LinkedIN.svg" alt="LinkedIn" height="40" width="40"/></a>
-<a href="https://www.researchgate.net/profile/Marta-Vanin-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="40" width="40"/></a>
-<a href="https://twitter.com/martabot_"><img src="/assets/twitterlogo.svg" alt="Twitter" height="40" width="40"/></a>
-</div>
-~~~
