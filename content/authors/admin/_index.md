@@ -28,15 +28,12 @@ organizations:
 bio: Distribution system modelling and optimization
 
 # List (academic) interests or hobbies
-interests:
-  - Distribution system modelling
-  - Optimization
-  - Smart meter applications
-  - Optimal network management
-  - Operations and planning
-  - State estimation
-  - Parameter estimation
-  - System identification
+Presently, my main research activities include:
+- system monitoring, through state estimation, 
+- system identification/parameter estimation either in (near-)real-time or with historical data,
+- optimal asset management to increase the penetration of renewable energy resources without causing congestion,
+- technical and policy considerations on smart meters and their capabilities,
+- "digital twins"
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -83,12 +80,7 @@ I am an incoming assistant professor (starting October, 2024) in the [Electa](ht
 
 I am interested in (developing) computational tools and methods for pretty much all-things (electricity) distribution system modelling and optimization. In particular, my main interests and expertise lie in the exploitation of digital measurements to achieve a better understanding of the network state and physical properties, as well as the development of solutions that improve current network management practices. As a general rule, I favor exact methods, unless there really is a strong case for approximations or heuristics, and solutions that are applicable to generic real-life distribution networks.
 
-Presently, my main research activities include: 
-- system monitoring, through state estimation, 
-- system identification/parameter estimation either in (near-)real-time or with historical data,
-- optimal asset management to increase the penetration of renewable energy resources without causing congestion,
-- technical and policy considerations on smart meters and their capabilities,
-- "digital twins".
-
 Check my publications on google scholar (link below) for a better overview of my research activities/expertise.
-If you would like to collaborate on something - even if it slightly deviates from the topics above -, or if you would like to ask about PhD/postdoc positions, just send me an e-mail to check mutual interest and time availability.
+If you would like to collaborate on something - even if it slightly deviates from the topics above -, or if you would like to ask about PhD/postdoc positions, just send me an e-mail to check mutual interest and availability.
+
+Presently, my main research activities include: 
