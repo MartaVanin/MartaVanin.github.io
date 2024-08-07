@@ -77,7 +77,7 @@ highlight_name: true
 
 I am an incoming assistant professor (starting October, 2024) in the [Electa](https://www.esat.kuleuven.be/electa) group of the [KU Leuven - Technologiecampus Gent](https://www.kuleuven.be/gent/industrieel-ingenieur), which is part of the department of electrical engineering [(ESAT)](https://www.esat.kuleuven.be) of KU Leuven, as well as [EnergyVille](https://energyville.be/). Prior to that, I have been a postdoc and a PhD student at Electa (Leuven) and EnergyVille, in prof. [Dirk Van Hertem](https://www.esat.kuleuven.be/electa/professors/00043846)'s group. During my PhD and postdoc time, I visited the Zuse Institute in Berlin, Germany, and CSIRO Energy in Newcastle (NSW), Australia, for a few months.
 
-> :loudspeaker: I have an opening for a Ph.D. student, do not hesitate to contact me if interested ❗
+> :loudspeaker: I have an opening for a Ph.D. student, do not hesitate to contact me ❗
 
 ## Research interests
 

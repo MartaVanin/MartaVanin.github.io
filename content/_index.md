@@ -39,7 +39,7 @@ sections:
     id: posts
     content:
       title: Blog Posts
-      subtitle: 'See all posts [here](./post/).
+      subtitle: No blog posts currently.
 '
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -77,7 +77,7 @@ sections:
     id: worktogether
     content:
       title: Work Together?
-      subtitle: Add text [here](./worktogether/).
+      subtitle: This website is work in progress, please check the section on my research interests above.
       text:
     design:
       columns: '1'
@@ -85,7 +85,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      subtitle: Add text [here](./teaching/).
+      subtitle: Work in progress.
       text:
     design:
       columns: '1'
