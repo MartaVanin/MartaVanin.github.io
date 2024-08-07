@@ -13,7 +13,7 @@ main:
   - name: Work Together?
     url: '#worktogether'
     weight: 40
-  - name: TeachingS
+  - name: Teaching
     url: '#teaching'
     weight: 30
   - name: Contact
