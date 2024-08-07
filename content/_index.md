@@ -40,7 +40,6 @@ sections:
     content:
       title: Blog Posts
       subtitle: No blog posts currently.
-'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
