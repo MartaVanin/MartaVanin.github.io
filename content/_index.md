@@ -13,27 +13,27 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: experience
-    id: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Incoming Assistant Professor
-          company: KU Leuven - Technology Campus Ghent
-          company_url: ''
-          company_logo:
-          location: Ghent, Belgium
-          date_start: '2024-10-01'
-          date_end: ''
-          description: 
+  # - block: experience
+  #   id: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Assistant Professor
+  #         company: KU Leuven - Technology Campus Ghent
+  #         company_url: ''
+  #         company_logo:
+  #         location: Ghent, Belgium
+  #         date_start: '2024-10-01'
+  #         date_end: ''
+  #         description: 
 
   - block: collection
     id: posts
@@ -94,7 +94,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: Email.
+      text: If you would like to contact me, please do so at the e-mail address below.
       # Contact (add or remove contact options as necessary)
       email: marta(dot)vanin(at)kuleuven.be
       contact_links:
