@@ -28,12 +28,12 @@ organizations:
 bio: Distribution system modelling and optimization
 
 # List (academic) interests or hobbies
-interests:
- - system monitoring, through state estimation, 
- - system identification/parameter estimation either in (near-)real-time or with historical data,
- - optimal asset management to increase the penetration of renewable energy resources without causing congestion,
- - technical and policy considerations on smart meters and their capabilities,
- - "digital twins"
+# interests:
+#  - system monitoring, through state estimation, 
+#  - system identification/parameter estimation either in (near-)real-time or with historical data,
+#  - optimal asset management to increase the penetration of renewable energy resources without causing congestion,
+#  - technical and policy considerations on smart meters and their capabilities,
+#  - "digital twins"
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -83,4 +83,9 @@ I am interested in (developing) computational tools and methods for pretty much 
 Check my publications on google scholar (link below) for a better overview of my research activities/expertise.
 If you would like to collaborate on something - even if it slightly deviates from the topics above -, or if you would like to ask about PhD/postdoc positions, just send me an e-mail to check mutual interest and availability.
 
-Presently, my main research activities include: 
+Presently, my main **research activities** include: 
+ - system monitoring, through state estimation, 
+ - system identification/parameter estimation either in (near-)real-time or with historical data,
+ - optimal asset management to increase the penetration of renewable energy resources without causing congestion,
+ - technical and policy considerations on smart meters and their capabilities,
+ - "digital twins"
