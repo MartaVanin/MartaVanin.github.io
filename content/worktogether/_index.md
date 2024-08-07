@@ -1,5 +1,5 @@
 ---
-title: Work with me
+title: Work Together
 cms_exclude: true
 
 # View.
@@ -17,5 +17,3 @@ math: true
 ---
 
 Write something here
-
-# with titles and all
